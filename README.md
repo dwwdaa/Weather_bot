@@ -14,7 +14,6 @@ Welcome to the Telegram Weather Bot! This bot is designed to provide weather inf
    - [Examples](#examples)
 3. [Bot Features](#bot-features)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Getting Started
 
