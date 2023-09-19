@@ -52,6 +52,8 @@ Before you can use the Telegram Weather Bot, make sure you have the following:
 
 Now, your Telegram Weather Bot should be up and running!
 
+5. If you do not want to get your own weather bot you can just use my [bot](https://t.me/pogoda_py_bot_bot).
+
 ## Usage
 
 ### Commands
