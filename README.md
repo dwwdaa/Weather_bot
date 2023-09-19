@@ -24,6 +24,7 @@ Before you can use the Telegram Weather Bot, make sure you have the following:
 1. A Telegram account.
 2. Access to the Telegram platform (via a mobile app or web browser).
 3. A token for the Telegram Bot API, which you can obtain by creating a bot on [BotFather](https://core.telegram.org/bots#botfather).
+4. A token for the OWM API, which you can obtain from official web-site of [openweathermap](https://openweathermap.org/api).
 
 ### Installation
 
@@ -41,7 +42,7 @@ Before you can use the Telegram Weather Bot, make sure you have the following:
    pip install pyowm
    ```
 
-3. Configure the bot by editing the `config.py` file. Add your Telegram Bot API token obtained from BotFather.
+3. Configure the bot by editing the `bot.py` file. Add your Telegram Bot API token obtained from BotFather and API token obtained from OWM.
 
 4. Start the bot:
 
