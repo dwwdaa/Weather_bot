@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Telegram Weather Bot! This bot is designed to provide weather information for a given location right within your Telegram chats. With this bot, you can easily check the current weather conditions, the forecast for the next few days, and more.
+Welcome to the Telegram Weather Bot! This bot is designed to provide weather information for a given location right within your Telegram chats. With this bot, you can easily check the current weather conditions, the forecast for the next few days, and more. https://t.me/PyWeatherXbot
 
 ## Table of Contents
 
