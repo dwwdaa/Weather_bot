@@ -31,7 +31,7 @@ Before you can use the Telegram Weather Bot, make sure you have the following:
 1. Clone this repository to your local machine or server:
 
    ```bash
-   git clone https://github.com/Gammik/Weather_bot.git
+   git clone https://github.com/dwwdaa/Weather_bot.git
    ```
 
 2. Install the required dependencies. You might want to create a virtual environment to manage them:
